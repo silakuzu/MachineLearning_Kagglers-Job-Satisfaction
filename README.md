@@ -14,5 +14,17 @@ MLSkillsSelect: In which areas of ML do the Kaggler consider herself/himself as 
 MLTechniquesSelect: In which techniques of ML do the person consider herself/himself as competent
 CodeWriter: Whether the person writes code to analyze data
 
+Features Related to Workplace:
+CurrentEmployerType, EmployerIndustry, EmployerSize, CurrentJobTitleSelect, PastJobTitlesSelect , CompensationScore…
+
+
+Other Features:
+MLToolNextYearSelect: Tools and technologies that the Kaggler most excited about learning in the next year.
+MLMethodNextYearSelect: ML/DS methods that the Kaggler most exiced about learning next year.
+LanguageRecommendationSelect: Recommendation of a programming language for a new data scientist.
+LearningPlatformUsefulness: Usefulness of related platforms & resources for learning data science skills.
+DataScienceIdentitySelect: Is the Kaggler consider herself/himself as a data scientist?
+
+
 
 In order to run the project in Google colab in the given location, move train.xlsx and test.xlsx to "/content/drive/My Drive" directory or change the directory to your desired location.
