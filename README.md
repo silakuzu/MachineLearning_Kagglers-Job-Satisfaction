@@ -19,7 +19,8 @@ CodeWriter: Whether the person writes code to analyze data
 CurrentEmployerType, EmployerIndustry, EmployerSize, CurrentJobTitleSelect, PastJobTitlesSelect , CompensationScore…
 
 
-**Other Features:** (A total of 54 features)
+**Other Features: (A total of 54 features)**
+
 MLToolNextYearSelect: Tools and technologies that the Kaggler most excited about learning in the next year.
 MLMethodNextYearSelect: ML/DS methods that the Kaggler most exiced about learning next year.
 LanguageRecommendationSelect: Recommendation of a programming language for a new data scientist.
