@@ -1,4 +1,4 @@
-#Prediction of Kagglers' Job Satisfaction using Machine Learning Techniques
+# Prediction of Kagglers' Job Satisfaction using Machine Learning Techniques
 
 Machine Learning course term project, Sabancı University.
 
