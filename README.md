@@ -25,7 +25,7 @@ MLToolNextYearSelect: Tools and technologies that the Kaggler most excited about
 MLMethodNextYearSelect: ML/DS methods that the Kaggler most exiced about learning next year.
 LanguageRecommendationSelect: Recommendation of a programming language for a new data scientist.
 LearningPlatformUsefulness: Usefulness of related platforms & resources for learning data science skills.
-DataScienceIdentitySelect: Is the Kaggler consider herself/himself as a data scientist?
+DataScienceIdentitySelect: Is the Kaggler consider herself/himself as a data scientist?,...
 
 
 
