@@ -1,6 +1,7 @@
-# MachineLearning_Kagglers-Job-Satisfaction
+#Prediction of Kagglers' Job Satisfaction using Machine Learning Techniques
 
 Machine Learning course term project, Sabancı University.
+
 
 Target Variable: JobSatisfaction: Job satisfaction level of Kaggler in a scale of 1 to 10. 
 
